@@ -1,0 +1,9 @@
+// Exemplo simplificado de comando no Takeshi Bot
+case 'transferirmb':
+    if (!args[0] || !args[1]) return reply('Uso: !transferirmb <numero> <quantidadeMB>');
+    let numero = args[0];
+    let quantidade = args[1];
+    // Aqui você chamaria a integração USSD/API da Vodacom
+    reply(`Transferência de ${quantidade}MB para ${numero} em processamento...`);
+    break;
+
