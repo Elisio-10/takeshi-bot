@@ -7,7 +7,7 @@ module.exports = {
   commands: [
     "abrir",
     "abri",
-    "abre",
+    "A",
     "abrir-grupo",
     "abri-grupo",
     "abre-grupo",
