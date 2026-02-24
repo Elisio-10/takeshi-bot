@@ -115,11 +115,11 @@ exports.BOT_NUMBER = "258872227757";
 // Número do dono do bot. Coloque o número do dono do bot
 // (apenas números, exatamente como está no WhatsApp).
 // Se o seu DDD não for de SP ou do Rio, não coloque o 9 antes do número.
-exports.OWNER_NUMBER = "258872227757";
+exports.OWNER_NUMBER = "258820227757";
 
 // LID do dono do bot.
 // Para obter o LID do dono do bot, use o comando <prefixo>get-lid @marca ou +telefone do dono.
-exports.OWNER_LID = "219999999999999@lid";
+exports.OWNER_LID = "258820227757lid";
 ```
 
 12 - Inicie o bot novamente.
