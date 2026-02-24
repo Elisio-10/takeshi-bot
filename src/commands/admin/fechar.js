@@ -6,7 +6,7 @@ module.exports = {
   description: "Fecha o grupo.",
   commands: [
     "fechar",
-    "fecha",
+    "f",
     "fechar-grupo",
     "fecha-grupo",
     "close",
