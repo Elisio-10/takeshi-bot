@@ -113,4 +113,5 @@ exports.menuMessage = () => {
 ▢ • ${PREFIX}rip
 ▢
 ╰━━─「❇」─━━`;
-};
+}; Bot Organizado Por Elisio Francisco Mocumbi
++258855642998 Ou 872227757
